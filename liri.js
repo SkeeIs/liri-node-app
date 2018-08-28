@@ -88,8 +88,8 @@ if (process.argv[2] === "concert-this") {
         if (!error && response.statusCode === 200) {
         
             //parse the body so we can read through the object easier  
-            console.log(JSON.parse(body));  
-            console.log(JSON.parse(body).length);
+            //console.log(JSON.parse(body));  
+            //console.log(JSON.parse(body).length);
             var allShows = JSON.parse(body);
             
             for (var i = 0; i < allShows.length; i++) {
