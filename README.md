@@ -6,7 +6,7 @@ A console based language bot that can search OMDB movie API for movie info, band
 
 
 
-### Image Preview of Train Scheduler
+### Image Preview of Each Type of Search with LiriBot
 <!-- take a picture of the image and add it into the readme  -->
 ![OMDB Movie Search](https://i.imgur.com/YQ2phGM.png)
 ![Bands In Town Concert Search](https://i.imgur.com/ktKlP3j.png)
